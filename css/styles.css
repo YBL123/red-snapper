@@ -52,7 +52,7 @@ body {
 .section-2-title-wrap {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .section-2-title {
@@ -82,4 +82,29 @@ body {
 .follow-icon-wrap {
   display: flex;
   margin-left: 15%;
+}
+
+.section-2-row-1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.section-2-row-1-h3 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+  color: var(--purple);
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 800;
+  font-size: 46.53px;
+}
+
+.section-2-row-1-h4 {
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+  color: var(--purple);
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 800;
+  font-size: 25.67px;
 }
