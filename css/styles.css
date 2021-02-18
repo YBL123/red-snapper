@@ -44,7 +44,7 @@ body {
 .section-2 {
   border-radius: 80px;
   width: 100%;
-  position: absolute;
+  /* position: absolute; */
   bottom: 0.1%;
   background: white;
 }
@@ -123,4 +123,25 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 800;
   font-size: 25.67px;
+}
+
+.section-2-bottom-container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.section-2-bottom-container {
+  color: var(--purple);
+  font-weight: 800;
+  font-size: 28.9;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.section-2-bottom-container-h1 {
+  font-size: 54.85px;
+  font-weight: 400;
+}
+
+.categories-wrap {
+  border-bottom: 4px solid var(--purple);
 }
