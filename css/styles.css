@@ -28,10 +28,8 @@ body {
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 10%;
+  top: 15%;
   left: 1%;
-  /* transform: translate(15%, -780%);
-  -ms-transform: translate(15%, -780%); */
   color: white;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 32.64px;
