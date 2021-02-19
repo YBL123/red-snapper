@@ -67,6 +67,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  margin-top: 3%;
 }
 
 .section-2-title {
@@ -187,14 +188,15 @@ body {
     font-size: 28.9px;
   }
   .more-icon {
-    width: 75%;
+    width: 55%;
   }
   .white-back-arrow {
-    width: 20%;
+    width: 12px;
+    height: 25px;
     margin-right: 3px;
   }
   .white-back-arrow-btn-text {
-    font-size: 22.64px;
+    font-size: 18px;
   }
   .follow-text {
     font-size: 15.67px;
@@ -207,5 +209,8 @@ body {
   .plus {
     position: absolute;
     width: 3%;
+  }
+  .follow-text {
+    font-size: 13px;
   }
 }
