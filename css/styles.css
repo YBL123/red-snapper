@@ -42,6 +42,12 @@ body {
   outline: none;
 }
 
+.white-back-arrow {
+  width: 24px;
+  height: 48.99px;
+  margin-right: 3px;
+}
+
 .white-back-arrow-btn-text {
   font-size: 32.64px;
   font-family: 'Source Sans Pro', sans-serif;
