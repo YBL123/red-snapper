@@ -149,7 +149,6 @@ body {
 }
 
 .section-2-bottom-container {
-  width: 90%;
   margin: 0 auto;
 }
 
@@ -163,6 +162,10 @@ body {
 .section-2-bottom-container-h1 {
   font-size: 54.85px;
   font-weight: 400;
+}
+
+.section-2-bottom-container-h4 {
+  font-size: 25.67px;
 }
 
 .categories-wrap {
@@ -215,5 +218,14 @@ body {
   }
   .follow-text {
     font-size: 13px;
+  }
+  .section-2-row-1-h3 {
+    font-size: 23px;
+  }
+  .section-2-row-1-h4 {
+    font-size: 12.5px;
+  }
+  .section-2-bottom-container-h4 {
+    font-size: 12.5px;
   }
 }
