@@ -28,7 +28,7 @@ body {
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 15%;
+  top: 8%;
   left: 1%;
   color: white;
   font-family: 'Source Sans Pro', sans-serif;
@@ -86,11 +86,15 @@ body {
   font-weight: 800;
   color: var(--purple);
   margin-left: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .follow-wrap {
   display: flex;
-  margin-left: 15%;
+  margin-left: 10%;
+  margin-bottom: 4%;
+  align-items: center;
 }
 
 .follow-icon-wrap {
@@ -109,8 +113,8 @@ body {
 .section-2-row-1 {
   display: flex;
   justify-content: space-evenly;
-  border-top: 4px solid var(--purple);
-  border-bottom: 4px solid var(--purple);
+  border-top: 2px solid var(--purple);
+  border-bottom: 2px solid var(--purple);
 }
 
 .section-2-row-1-h3 {
@@ -153,7 +157,7 @@ body {
 .categories-wrap {
   display: flex;
   justify-content:space-between;
-  border-bottom: 4px solid var(--purple);
+  border-bottom: 2px solid var(--purple);
 }
 
 .arrow-btn {
@@ -174,6 +178,28 @@ body {
   .white-back-arrow-btn-wrap {
   }
   .section-2-title {
-    font-size: 48.9px;
+    font-size: 28.9px;
+  }
+  .more-icon {
+    width: 75%;
+  }
+  .white-back-arrow {
+    width: 20%;
+    margin-right: 3px;
+  }
+  .white-back-arrow-btn-text {
+    font-size: 22.64px;
+  }
+  .follow-text {
+    font-size: 15.67px;
+    margin-left: -5px;
+  }
+  .circle {
+    position: relative;
+    width: 50%;
+  }
+  .plus {
+    position: absolute;
+    width: 3%;
   }
 }
