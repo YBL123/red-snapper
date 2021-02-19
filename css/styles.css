@@ -162,6 +162,7 @@ body {
 .section-2-bottom-container-h1 {
   font-size: 54.85px;
   font-weight: 400;
+  margin-top: 0;
 }
 
 .section-2-bottom-container-h4 {
@@ -227,5 +228,11 @@ body {
   }
   .section-2-bottom-container-h4 {
     font-size: 12.5px;
+  }
+  .section-2-bottom-container-h1 {
+    font-size: 25px;
+  }
+  .arrow {
+    height: 25px;
   }
 }
