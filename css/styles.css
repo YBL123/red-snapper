@@ -92,12 +92,21 @@ body {
   outline: none;
 }
 
+.follow-btn {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+
 .follow-text {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 25.67px;
   font-weight: 800;
   color: var(--purple);
-  margin-left: 10px;
+  margin-left: 3%;
   margin-top: 0;
   margin-bottom: 0;
 }
