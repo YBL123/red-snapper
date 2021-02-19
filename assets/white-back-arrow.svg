@@ -1,0 +1,10 @@
+<svg id="Back_arrow" data-name="Back arrow" xmlns="http://www.w3.org/2000/svg" width="23.996" height="48.994" viewBox="0 0 23.996 48.994">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Back_arrow-2" data-name="Back arrow" class="cls-1" d="M17.569,100.978,17,100.737l.19-.241L17,100.258l.561-.238L36.457,76l4.536,1.922L23.239,100.5,41,123.072l-4.536,1.922Z" transform="translate(-17 -76.001)"/>
+</svg>

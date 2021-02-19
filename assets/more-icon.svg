@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="10" viewBox="0 0 44 10">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #452f8d;
+      }
+    </style>
+  </defs>
+  <path id="more_-icon" data-name="more -icon" class="cls-1" d="M672,530a5,5,0,1,1,5,5A5,5,0,0,1,672,530Zm-17,0a5,5,0,1,1,5,5A5,5,0,0,1,655,530Zm-17,0a5,5,0,1,1,5,5A5,5,0,0,1,638,530Z" transform="translate(-638 -525)"/>
+</svg>
